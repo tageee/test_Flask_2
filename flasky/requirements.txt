@@ -1,4 +1,4 @@
-aiohttp==0.21.5
+aiohttp==3.7.4
 aiomysql==0.0.7
 apturl==0.5.2
 argh==0.26.1
